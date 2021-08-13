@@ -1,0 +1,2 @@
+# demoapp-packagist
+demoapp@packagist
