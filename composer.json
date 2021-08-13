@@ -1,0 +1,18 @@
+{
+    "name": "nikolav/demo-app",
+    "description": "demo app",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "nikolav\\demoapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nikolav",
+            "email": "admin@nikolav.rs"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
